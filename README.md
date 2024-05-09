@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/charlisable/front-end-nft-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://genuine-fairy-3c5704.netlify.app/)
 
 ## My process
 
